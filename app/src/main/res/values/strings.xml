@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EVA2_1_INTENTOS</string>
+    <string name="button">Button</string>
+    <string name="introduce_un_n_mero_de_tel_fono">Introduce un número de teléfono</string>
+</resources>
